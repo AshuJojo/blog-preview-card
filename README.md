@@ -31,6 +31,7 @@ To create a blog card component with img, category, publish date, title, descrip
 ### Links
 
 - Solution URL: [https://github.com/AshuJojo/blog-preview-card](https://github.com/AshuJojo/blog-preview-card)
+- Live URL: [https://blog-preview-card-tawny-beta.vercel.app/](https://blog-preview-card-tawny-beta.vercel.app/)
 
 ## My process
 
