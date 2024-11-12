@@ -81,7 +81,7 @@ span.category {
 }
 
 section,
-header {
+header, article {
     margin: 12px 0px 0px 0px;
     padding: 0px;
 }
