@@ -23,8 +23,11 @@ To create a blog card component with img, category, publish date, title, descrip
 
 ### Screenshot
 
+#### Desktop
 ![Desktop Screenshot](./design/screenshot-desktop.png)
 
+
+#### Mobile
 ![Mobile Screenshot](./design/screenshot-mobile.png)
 
 
